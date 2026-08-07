@@ -37,7 +37,7 @@ env:
   EFS_MOUNT_POINT: /srv/efs/mysite/media
 
   # Django collectstatic 결과 업로드 위치
-  S3_STATIC_URI: s3://mysite-cdn-bucket-731219765076-ap-northeast-2-an/static
+  S3_STATIC_URI: s3://han-cdn-bucket-304588611771-ap-northeast-2-an/static
 
 jobs:
   # ============================================================
